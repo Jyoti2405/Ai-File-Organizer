@@ -33,3 +33,7 @@ This project is designed to reduce manual effort in managing files. The applicat
 ---
 
 ## 📂 Project Structure
+File-Organizer-Python/
+├── main.py
+├── formats.py
+├── README.md
