@@ -7,8 +7,6 @@ A Python-based GUI application that helps users organize files automatically int
 ## 📌 Project Overview
 This project is designed to reduce manual effort in managing files. The application scans selected source folders and moves files into categorized folders inside a destination directory using a simple and interactive GUI.
 
----
-
 ## ✨ Features
 - User-friendly GUI using Tkinter  
 - Organizes files into:
@@ -21,19 +19,35 @@ This project is designed to reduce manual effort in managing files. The applicat
 - Undo functionality
 - Light & Dark theme support
 - Error handling and feedback messages
-
----
-
+  
 ## 🛠️ Technologies Used
 - Python 3
 - Tkinter (GUI)
 - OS Module
 - Shutil Module
-
----
-
 ## 📂 Project Structure
 File-Organizer-Python/
 ├── main.py
 ├── formats.py
 ├── README.md
+
+## ▶️ How to Run the Project
+1. Ensure Python is installed on your system
+2. Clone the repository or download the ZIP file
+3. Open terminal / command prompt in the project directory
+4. Run the following command:
+
+```bash
+python main.py
+
+Use Case
+Organizing messy download folders
+Managing multimedia files
+Beginner-friendly Python GUI project
+Academic mini project submission
+
+Author
+Jyoti Dixit
+BCA – Computer Applications
+
+
